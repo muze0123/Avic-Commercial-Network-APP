@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="300px" height="425px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1 0 0 1 -2999 -6483 )">
+    <path d="M 3000 6493  A 9 9 0 0 1 3009 6484 L 3289 6484  A 9 9 0 0 1 3298 6493 L 3298 6898  A 9 9 0 0 1 3289 6907 L 3009 6907  A 9 9 0 0 1 3000 6898 L 3000 6493  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" />
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="55px" height="52px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="clip6710">
+      <path d="M 1807 691  C 1805.335 691  1804 689.665  1804 688  L 1804 642  C 1804 640.335  1805.335 639  1807 639  L 1856 639  C 1857.665 639  1859 640.335  1859 642  L 1859 688  C 1859 689.665  1857.665 691  1856 691  " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -1804 -639 )">
+    <path d="M 1804 639  L 1859 639  L 1859 691  L 1804 691  L 1804 639  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip6710)" />
+    <path d="M 1808 643  L 1855 643  L 1855 687  L 1808 687  L 1808 643  " fill-rule="nonzero" fill="#ffffff" stroke="none" mask="url(#clip6710)" />
+    <path d="M 1836.5 654.5999999999999  C 1834.316 654.5999999999999  1832.6 652.8839999999999  1832.6 650.6999999999999  C 1832.6 648.516  1834.316 646.8  1836.5 646.8  C 1838.684 646.8  1840.3999999999999 648.516  1840.3999999999999 650.6999999999999  C 1840.3999999999999 652.8839999999999  1838.684 654.5999999999999  1836.5 654.5999999999999  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip6710)" />
+    <path d="M 1810 686  L 1810 663.45  L 1821 653.2  L 1836.4 662.7418181818182  L 1845.2 659.35  L 1854 662.7418181818182  L 1854 686  L 1810 686  " fill-rule="nonzero" fill="#169bd5" stroke="none" mask="url(#clip6710)" />
+  </g>
+</svg>
